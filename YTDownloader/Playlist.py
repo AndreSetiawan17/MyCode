@@ -28,5 +28,4 @@ def playlist(link):
 
 
 if __name__ == "__main__":
-    
-    playlist("https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf")
+    print("Yeay")
